@@ -15,5 +15,8 @@ Dominique Mahoner, Bucknell University
 - fd
 
 # Output 
-- Class
+- Class: A binary variable indicating the outcome of zeolite formation
+  -   Class "0": Failed experiments resulting in amorphous, mixed, dense, or layered phases.
+  -    Class "1": Successful experiments resulting in a pure zeolite phase.
+
 
