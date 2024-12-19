@@ -30,5 +30,6 @@ This app contains the following steps:
 ![image](https://github.com/user-attachments/assets/28ed6dd9-7374-433b-a269-e68d4c26852d)
 
 # Model performance
+![image](https://github.com/user-attachments/assets/395fd48e-fa55-4de0-9fd0-94a02494fb07)
 
 
