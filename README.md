@@ -25,3 +25,10 @@ This app contains the following steps:
 - Predictive Modeling: Utilizes machine learning models to predict whether or not a zeolite will form.
 - Feature Importance Analysis: Identifies key factors contributing to recurrence risk for accurate results.
 - Visualization Tools: In order to help understnad model predictions a partial dependence plot was used.
+
+# Heat Map
+![image](https://github.com/user-attachments/assets/28ed6dd9-7374-433b-a269-e68d4c26852d)
+
+# Model performance
+
+
