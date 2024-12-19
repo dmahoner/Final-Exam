@@ -29,6 +29,12 @@ This app contains the following steps:
 # Heat Map
 ![image](https://github.com/user-attachments/assets/28ed6dd9-7374-433b-a269-e68d4c26852d)
 
+# Machine Learning Models
+This app initially is trained on 4 supervised learning models:
+- Random Forest
+- Support Vector Machine
+- K-Nearest Neighbors
+- Linear Regression These models use the eleven previously listed features to predict whether or not a reccurence will happen.
 # Model performance
 ![image](https://github.com/user-attachments/assets/395fd48e-fa55-4de0-9fd0-94a02494fb07)
 
